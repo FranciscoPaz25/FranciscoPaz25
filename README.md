@@ -6,8 +6,8 @@ Graduando em Ciência da Computação (4º semestre), focado em desenvolvimento 
 
 🎯 Em busca de oportunidades como **Desenvolvedor Java Júnior, Full Stack Júnior ou Estágio** em Tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-francisco-740333379)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfmp.1500@gmail.com)
 
 ---
 
