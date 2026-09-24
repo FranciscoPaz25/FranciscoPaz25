@@ -31,6 +31,7 @@ Graduando em Ciência da Computação (4º semestre), focado em desenvolvimento 
 ---
 
 ## 🚀 Projetos
-
-- [Nome do projeto 1](https://github.com/SEU-USUARIO/repositorio-1): breve descrição (Java, Spring Boot, PostgreSQL)
-- [Nome do projeto 2](https://github.com/SEU-USUARIO/repositorio-2): breve descrição (React, Node.js, MongoDB)
+<!--
+  - [Nome do projeto 1](https://github.com/SEU-USUARIO/repositorio-1): breve descrição (Java, Spring Boot, PostgreSQL)
+  - [Nome do projeto 2](https://github.com/SEU-USUARIO/repositorio-2): breve descrição (React, Node.js, MongoDB)
+-->
